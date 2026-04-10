@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main(){
+
+    int var=4/9;
+    printf("%d\n",var);
+    float var1=4/9;
+    printf("%.2f\n",var1);
+}
